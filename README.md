@@ -1,7 +1,5 @@
 # Vue_to_do_list
 
-# todo-list-frontend
-
 ## Project setup
 ```
 npm install
